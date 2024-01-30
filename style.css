@@ -1,0 +1,93 @@
+#titulo {
+    color: rgb(22, 22, 57);
+
+}
+
+.texto {
+    color: #4c58af;
+}
+
+div p {
+    color: pink;
+}
+
+div h2 {
+    color: tomato;
+}
+
+div h3 {
+    color: green;
+}
+
+/*Este es el famoso comentario en css..*/
+
+.color {
+    border: 3px solid black; 
+}
+
+.borde {
+    border-style: dotted;
+    border-color: aquamarine;
+    border-radius: 3px solid black; 
+}
+
+#fondo {
+    background-color: chocolate;
+    opacity: 0.5;
+}
+
+#fondo2 {
+    
+    background-color: chartreuse;
+    height: 200px;
+    background-image: url("img/Code.jpg");
+    background-size: 100px 100px;
+    height: 150px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.margen {
+    background-color: skyblue;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: solid 2px rgb(21, 21, 154);
+   
+}
+
+.centrado {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#hola {
+    font-family: "honk";
+    text-align: center;
+    font-size: xx-large;
+}
+
+ul {
+    background-color: rgb(206, 151, 151);
+    font-family: honk;
+    list-style: armenian; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid 2px rgb(147, 48, 48);
+    padding: 5px;
+}
+
+th {
+    background-color: rgb(237, 0, 0);
+    color: antiquewhite;
+}
+
+tr:hover {
+    background-color: aqua;
+}
